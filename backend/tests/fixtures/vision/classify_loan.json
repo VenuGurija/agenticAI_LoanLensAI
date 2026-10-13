@@ -1,0 +1,7 @@
+{
+  "image_id": "classify_loan",
+  "document_class": "loan_document",
+  "confidence": "high",
+  "page_role": "unknown",
+  "notes": null
+}

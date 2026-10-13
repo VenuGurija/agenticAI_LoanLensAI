@@ -1,0 +1,15 @@
+{
+  "results": [
+    {
+      "image_id": "img_placeholder",
+      "loans": [
+        {
+          "lender_brand": {"value": "Dhanrishi", "confidence": "high"},
+          "loan_id": {"value": "LN-C", "confidence": "high"},
+          "sanctioned_amount": {"value": "18000.00", "currency": "INR", "confidence": "high"},
+          "disbursed_amount": {"value": "10000.00", "currency": "INR", "confidence": "high"}
+        }
+      ]
+    }
+  ]
+}

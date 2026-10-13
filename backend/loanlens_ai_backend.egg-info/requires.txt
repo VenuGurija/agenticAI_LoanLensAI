@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic-settings
+sqlalchemy
+python-multipart
+pillow
+
+[dev]
+pytest
+httpx

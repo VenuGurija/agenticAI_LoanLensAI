@@ -1,0 +1,18 @@
+{
+  "results": [
+    {
+      "image_id": "img_placeholder",
+      "loans": [
+        {
+          "lender_brand": {"value": "Fibe", "confidence": "high"},
+          "loan_id": {"value": "FB-1", "confidence": "high"},
+          "sanctioned_amount": {"value": "5000.00", "currency": "INR", "confidence": "high"},
+          "disbursed_amount": {"value": "1000.00", "currency": "INR", "confidence": "high"},
+          "repayment_amount": {"value": "1100.00", "currency": "INR", "confidence": "high"},
+          "disbursement_date": {"value": "2026-08-01", "confidence": "high"},
+          "repayment_date": {"value": "2026-08-15", "confidence": "high"}
+        }
+      ]
+    }
+  ]
+}

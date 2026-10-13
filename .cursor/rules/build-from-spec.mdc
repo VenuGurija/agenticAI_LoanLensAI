@@ -1,0 +1,15 @@
+---
+description: Build Loan Lens AI from the project specification
+alwaysApply: true
+---
+
+# Build from spec
+
+Follow `documents/LOAN-LENS-SPEC.md`, `documents/LOAN-LENS-DEV-CHECKLIST.md`, and `AGENTS.md`.
+
+- Implement **one** checklist session at a time. Read that session first.
+- Read only the SPEC sections the session lists.
+- Do not implement later sessions or out-of-V1 / roadmap work.
+- Never invent missing loan amounts, dates, or identities; keep vision providers behind `VisionProvider`.
+- Run the session Verify commands before calling the work done.
+- Update checklist progress only after verification succeeds.

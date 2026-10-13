@@ -1,0 +1,9 @@
+.env
+data/*.db
+data/logs/*.log
+data/tmp/images/*
+!data/tmp/images/.gitkeep
+node_modules
+__pycache__
+dist
+.venv

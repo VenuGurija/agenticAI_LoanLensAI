@@ -1,0 +1,11 @@
+{
+  "results": [
+    {
+      "image_id": "img_placeholder",
+      "document_class": "loan_document",
+      "confidence": "high",
+      "page_role": "sanction",
+      "notes": null
+    }
+  ]
+}

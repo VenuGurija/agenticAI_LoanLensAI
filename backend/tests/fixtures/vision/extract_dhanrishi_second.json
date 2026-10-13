@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "image_id": "img_placeholder",
+      "loans": [
+        {
+          "lender_brand": {"value": "Dhanrishi", "confidence": "high"},
+          "legal_lending_entity": {"value": "Gagandeep", "confidence": "high"},
+          "loan_id": {"value": "LN-200", "confidence": "high"},
+          "sanctioned_amount": {"value": "8000.00", "currency": "INR", "confidence": "high"},
+          "disbursed_amount": {"value": "7000.00", "currency": "INR", "confidence": "high"},
+          "repayment_amount": {"value": "8400.00", "currency": "INR", "confidence": "high"},
+          "disbursement_date": {"value": "2026-07-01", "confidence": "high"},
+          "repayment_date": {"value": "2026-07-15", "confidence": "high"}
+        }
+      ]
+    }
+  ]
+}
